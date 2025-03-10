@@ -1,0 +1,7 @@
+cd framer-clone
+git init
+git remote add origin https://github.com/YOUR_USERNAME/framer-clone.git
+git add .
+git commit -m "Initial commit - Full Framer Clone"
+git branch -M main
+git push -u origin main
